@@ -1,0 +1,12 @@
+{
+  "name": "gravity",
+  "short_description": "gravity sim",
+  "version": "0.0.1",
+  "author": "Terroid",
+  "email": "skandabhairava@gmail.com",
+  "author_github": "https://github.com/skandabhairava",
+  "entry_point": "gravity.py",
+  "working_directory": "src",
+  "github": "",
+  "license": "MIT"
+}
